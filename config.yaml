@@ -1,4 +1,4 @@
-baseURL: http://localhost:1313
+baseURL: https://genekuo.github.io/web-skeleton
 languageCode: en-us
 title: Web Skeleton
 theme: Eclectic
